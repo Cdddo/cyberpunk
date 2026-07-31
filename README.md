@@ -1,4 +1,4 @@
-![Banner Cyberpunk](/assets/cyberpunk_banner_2021.png?raw=true "Banner Cyberpunk")
+![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 
 <div align="center"><h1>A Cyberpunk theme for Visual Studio Code.</h1></div>
 
@@ -12,11 +12,11 @@
 
 ![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
 
-<div align="center"><h1>That's it! Activate now the UMBRA protocol.</h1></div>
+<div align="center"><h1>UMBRA protocol</h1></div>
 
 ![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
 
-<div align="center"><h1>👾 That's it! Activate now the SCARLET protocol 👾 (BETA).</h1></div>
+<div align="center"><h1>SCARLET protocol</h1></div>
 
 ![Code Screenshot](/assets/preview-scarlet.png?raw=true "Code Screenshot")
 
