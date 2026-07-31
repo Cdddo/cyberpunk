@@ -1,9 +1,9 @@
 {
     "name": "Cyberpunk",
     "displayName": "Cyberpunk",
-    "description": "A crazy cyberpunk theme",
+    "description": "Cyberpunk themes",
     "version": "1.2.14",
-    "publisher": "max-SS",
+    "publisher": "Cdddo",
     "galleryBanner": {
         "color": "#0a0126",
         "theme": "dark"
@@ -11,25 +11,25 @@
     "engines": {
         "vscode": "^1.18.0"
     },
-    "license": "MIT",
-    "icon": "cyberpunk_logo_2021.png",
+    "license": "GPL-3.0-or-later",
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Cyberpunk",
+                "label": "Cyberpunk HAZE Protocol",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-color-theme.json"
             },
             {
-                "label": "Activate UMBRA protocol",
+                "label": "Cyberpunk UMBRA Protocol",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-umbra-color-theme.json"
             },
             {
-                "label": "Activate SCARLET protocol (beta)",
+                "label": "Cyberpunk SCARLET Protocol",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-scarlet-color-theme.json"
             }
@@ -37,10 +37,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/prometheux-ar/cyberpunk"
+        "url": "https://github.com/Cdddo/cyberpunk"
     },
     "bugs": {
-        "url": "https://github.com/prometheux-ar/cyberpunk/issues",
-        "email": "cyberpunk.vsc@outlook.com"
+        "url": "https://github.com/Cdddo/cyberpunk/issues"
     }
 }
