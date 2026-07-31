@@ -1,3 +1,22 @@
+<a name="1.3.0"></a>
+# Version 1.3.0 - HAZE - (31/07/2026)
+
+### Changed
+- Cleaned repo of unnecessary website, wiki, and images
+- Updated README.md
+- Default theme renamed to HAZE
+- Organized and coordinated color sections for all protocols
+- First pass of tweaks, including menu backgrounds, status bar, input backgrounds, sidebar and titlebar, editor warning, cursor, quick input, list hover and terminal
+  
+  ### Added
+- Added colors for inlay hints
+- Added border for modified tabs
+- Added border for focused elements
+- 
+  ### Fixed
+  - Fixed colors for menu focus to improve visibility
+  - Fixed selection background for SCARLET to make selections visible
+
 <a name="1.2.0"></a>
 # Version 1.2.0 - Lucifer - (25/07/2018)
 ### Added
