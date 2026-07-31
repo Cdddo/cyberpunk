@@ -231,11 +231,11 @@
 		"panelTitle.inactiveForeground": "#7877b3",
 
 		// QuickInput
-		// "quickInput.background": "#002212ec",
-		// "quickInput.foreground": "#5c967bec",
-		// "quickInputList.focusBackground": "#100D23",
-		// "quickInputList.focusForeground": "#00FF9C",
-		// "quickInputList.focusIconForeground": "#00FF9C",
+		"quickInput.background": "#372963",
+		"quickInput.foreground": "#8e97ff",
+		"quickInputList.focusBackground": "#100D23",
+		"quickInputList.focusForeground": "#00FF9C",
+		"quickInputList.focusIconForeground": "#00FF9C",
 
 		// ScrollbarSlider
 		"scrollbarSlider.background": "#5c35b154",

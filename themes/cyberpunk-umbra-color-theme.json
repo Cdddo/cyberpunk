@@ -187,7 +187,7 @@
 		"list.activeSelectionBackground": "#002212ec",
 		"list.activeSelectionForeground": "#00FF9C",
 		"list.focusBackground": "#002212ec",
-		"list.hoverBackground": "#002212ec",
+		"list.hoverBackground": "#5c35b154",
 		"list.hoverForeground": "#00FF9C",
 		"list.highlightForeground": "#00FF9C",
 		"list.inactiveSelectionBackground": "#100d23",
@@ -231,8 +231,8 @@
 		"panelTitle.inactiveForeground": "#7877b3",
 
 		// QuickInput
-		"quickInput.background": "#002212ec",
-		"quickInput.foreground": "#5c967bec",
+		"quickInput.background": "#1e1d45",
+		"quickInput.foreground": "#8e97ff",
 		"quickInputList.focusBackground": "#100D23",
 		"quickInputList.focusForeground": "#00FF9C",
 		"quickInputList.focusIconForeground": "#00FF9C",
