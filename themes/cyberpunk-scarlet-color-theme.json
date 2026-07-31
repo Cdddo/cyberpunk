@@ -103,6 +103,7 @@
         "tab.border": "#101116",
         "tab.activeForeground": "#ff0055",
         "tab.inactiveForeground": "#eb4d81de",
+		"tab.activeModifiedBorder": "#00FF9C",
 
 		// Menu Section
 		"menu.border": "#ff0055",
