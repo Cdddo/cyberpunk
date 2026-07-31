@@ -248,12 +248,12 @@
 		"sideBar.border": "#101116",
         "sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background": "#240000",
-		"sideBarSectionHeader.foreground": "#ff8ba8",
-		"sideBarSectionHeader.border": "#ff235a",
+		"sideBarSectionHeader.foreground": "#ff0055",
+		"sideBarSectionHeader.border": "#ff0055",
         
 		// TitleBar
 		"titleBar.activeBackground": "#140009",
-		"titleBar.activeForeground": "#ff8ba8",
+		"titleBar.activeForeground": "#ff0055",
 		// "titleBar.inactiveBackground":
 		// "titleBar.inactiveForeground":
 		// "titleBar.border":
