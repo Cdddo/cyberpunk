@@ -14,7 +14,7 @@
 		"merge.incomingHeaderBackground": "#003cff6b",
 
 		// Terminal
-		"terminalCursor.foreground": "#9dff00",
+		"terminalCursor.foreground": "#00ffc8",
 		"terminal.foreground": "#00a2ff",
 
 		// DebugToolBar
