@@ -83,10 +83,10 @@
 		"editor.wordHighlightStrongBackground": "#42557B",
 		
 		// Editor Various
-		"editorCursor.foreground": "#00ff6a",
+		"editorCursor.foreground": "#00FF9C",
 		"editorRuler.foreground": "#182333",
 		"editorError.foreground": "#ff1865",
-		"editorWarning.foreground": "#009550",
+		"editorWarning.foreground": "#E5B000",
 		"editorWhitespace.foreground": "#2B3E5A",
 		"editorLink.activeForeground": "#3d81fe",
 
