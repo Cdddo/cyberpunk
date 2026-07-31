@@ -171,15 +171,17 @@
 		"dropdown.border": "#00FF9C",
 
 		// StatusBar
-		"statusBar.background": "#002212ec",
+		"statusBar.background": "#261D45",
 		"statusBar.foreground": "#00FF9C",
-		"statusBar.border": "#00FF9C",
+		"statusBar.border": "#8e97ff",
 		"statusBar.debuggingBackground": "#9900ff33",
 		"statusBar.debuggingForeground": "#c566fc",
 		"statusBar.debuggingBorder": "#b700ff",
 		// "statusBar.noFolderBackground":
 		// "statusBar.noFolderForeground":
 		// "statusBar.noFolderBorder":
+		"statusBarItem.hoverBackground": "#00FF9C",
+		"statusBarItem.hoverForeground": "#000",
 
 		// List
 		"list.activeSelectionBackground": "#100D23",

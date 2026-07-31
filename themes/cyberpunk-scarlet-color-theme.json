@@ -180,6 +180,8 @@
 		"statusBar.noFolderBackground":"#1d000ae5",
 		"statusBar.noFolderForeground": "#ff0055",
 		"statusBar.noFolderBorder": "#ff0055",
+		"statusBarItem.hoverBackground": "#000",
+		"statusBarItem.hoverForeground": "#00FF9C",
 
 		// List
 		"list.activeSelectionBackground": "#ff005528",
