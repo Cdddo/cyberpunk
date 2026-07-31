@@ -128,6 +128,9 @@
 		"editorInlayHint.background": "#030202",
 		"editorInlayHint.foreground": "#d57bff",
 
+		// Focus
+		"focusBorder": "#ff0055",
+		
 		// Tab
         "tab.border": "#101116",
 		"tab.activeBackground": "#101116",
