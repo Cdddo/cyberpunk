@@ -21,7 +21,7 @@
             {
                 "label": "Cyberpunk HAZE Protocol",
                 "uiTheme": "vs-dark",
-                "path": "./themes/cyberpunk-color-theme.json"
+                "path": "./themes/cyberpunk-haze-color-theme.json"
             },
             {
                 "label": "Cyberpunk UMBRA Protocol",

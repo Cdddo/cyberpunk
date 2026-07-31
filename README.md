@@ -1,6 +1,6 @@
 ![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 
-<div align="center"><h1>A Cyberpunk theme for Visual Studio Code.</h1></div>
+<div align="center"><h1>Cyberpunk themes for Visual Studio Code</h1></div>
 
 <p align="center">
 <img src="https://img.shields.io/vscode-marketplace/d/max-SS.cyberpunk.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/github/stars/prometheux-ar/cyberpunk.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
 </p>
 
-![Code Screenshot](/assets/preview.png?raw=true "Code Screenshot")
+<div align="center"><h1>HAZE protocol</h1></div>
+
+![Code Screenshot](/assets/preview-haze.png?raw=true "Code Screenshot")
 
 <div align="center"><h1>UMBRA protocol</h1></div>
 
