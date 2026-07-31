@@ -130,7 +130,7 @@
 
 		// Focus
 		"focusBorder": "#ff0055",
-		
+
 		// Tab
         "tab.border": "#101116",
 		"tab.activeBackground": "#101116",
@@ -143,11 +143,12 @@
         "tab.hoverBorder": "#ff0055",
 
 		// Menu
-		"menu.background": "#140007f8",
+		"menu.background": "#101116",
 		"menu.foreground": "#ff0055",
 		"menu.border": "#ff0055",
 		"menu.selectionBackground": "#ff0055",
 		"menu.selectionForeground": "#000",
+		"menu.separatorBackground": "#ff00556e",
 
 		// Input
 		"input.background": "#001420",

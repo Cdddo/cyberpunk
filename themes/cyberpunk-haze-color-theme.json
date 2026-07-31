@@ -143,11 +143,12 @@
 		"tab.hoverBorder": "#721bf2",
 
 		// Menu
-		"menu.background": "#002212ec",
+		"menu.background": "#261D45",
 		"menu.foreground": "#00FF9C",
 		"menu.border": "#00FF9C",
 		"menu.selectionBackground": "#00FF9C",
 		"menu.selectionForeground": "#000",
+		"menu.separatorBackground": "#00ff9d6e",
 
 		// Input
 		"input.background": "#002212ec",
