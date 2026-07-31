@@ -151,7 +151,7 @@
 		"menu.separatorBackground": "#ff00556e",
 
 		// Input
-		"input.background": "#001420",
+		"input.background": "#101116",
 		"input.foreground": "#00ffc8",
 		"input.border": "#00a2ff",
         "input.placeholderForeground": "#00a2ffa9",
