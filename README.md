@@ -3,9 +3,9 @@
 <div align="center"><h1>Cyberpunk themes for Visual Studio Code</h1></div>
 
 <p align="center">
-<img src="https://img.shields.io/vscode-marketplace/d/cdddo.cyberpunk.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
-<img src="https://img.shields.io/vscode-marketplace/r/cdddo.cyberpunk.svg?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge"/>
-<img src="https://img.shields.io/vscode-marketplace/v/cdddo.cyberpunk.svg?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/d/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/r/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge"/>
+<img src="https://img.shields.io/vscode-marketplace/v/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/Cdddo/cyberpunk-themes.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
 </p>
 
@@ -30,4 +30,4 @@
 - `"editor.fontLigatures":  "'calt', 'liga'",`
 - `"editor.bracketPairColorization.enabled": true,`
 
-Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=cdddo.cyberpunk#review-details)
+Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=Cdddo.Cyberpunk-CD3O#review-details)
