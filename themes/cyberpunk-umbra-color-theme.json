@@ -19,7 +19,7 @@
 
 		// DebugToolBar
         "debugToolBar.background": "#002212ec",
-        "debugToolBar.border": "#00ff6a",
+        "debugToolBar.border": "#00FF9C",
 
 		// Selection
 		// "selection.background":
@@ -29,7 +29,7 @@
 		"textLink.foreground": "#3d5afe",
 
 		// Badge
-		"badge.background": "#00ff6a",
+		"badge.background": "#00FF9C",
 		"badge.foreground": "#001107",
 
 		// Button
@@ -48,14 +48,14 @@
 
 		// GitLens
 		"gitlens.gutterBackgroundColor": "#182333",
-		"gitlens.gutterForegroundColor": "#00e676",
+		"gitlens.gutterForegroundColor": "#00FF9C",
 		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
 		"gitlens.lineHighlightBackgroundColor": "#ff174426",
 		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
 		"gitlens.trailingLineForegroundColor": "#00ff8449",
 
 		// GitDecoration
-		"gitDecoration.untrackedResourceForeground": "#00ff6a",
+		"gitDecoration.untrackedResourceForeground": "#00FF9C",
 		"gitDecoration.deletedResourceForeground": "#ff004c",
 		"gitDecoration.modifiedResourceForeground": "#00c3ff",
 		"gitDecoration.conflictingResourceForeground": "#ffff00",
@@ -66,7 +66,7 @@
 		"activityBar.background": "#100d23",
 		"activityBar.foreground": "#00ff9d",
 		"activityBar.border": "#09040f",
-		"activityBarBadge.background": "#00ff6a",
+		"activityBarBadge.background": "#00FF9C",
 		"activityBarBadge.foreground": "#001107",
 
 		// Editor
@@ -152,7 +152,7 @@
 
 		// Input
 		"input.background": "#100d23",
-        "input.foreground": "#00ff6a",
+        "input.foreground": "#00FF9C",
 		"input.border": "#00FF9C",
         "input.placeholderForeground": "#009550",
 		// "inputOption.activeBorder":
@@ -191,7 +191,7 @@
 		"list.hoverForeground": "#00FF9C",
 		"list.highlightForeground": "#00FF9C",
 		"list.inactiveSelectionBackground": "#100d23",
-		"list.inactiveSelectionForeground": "#00ff6a",
+		"list.inactiveSelectionForeground": "#00FF9C",
 		"list.errorForeground": "#ff235a",
 
 		// NotificationCenter
@@ -210,24 +210,24 @@
 		"progressBar.background": "#ff4081",
 
 		// PeekView
-		"peekView.border": "#00e676",
+		"peekView.border": "#00FF9C",
 		"peekViewEditor.matchHighlightBackground": "#5e35b1",
 		"peekViewEditor.background": "#131341",
 		"peekViewResult.background": "#131341",
-		"peekViewResult.fileForeground": "#00e676",
+		"peekViewResult.fileForeground": "#00FF9C",
 		"peekViewResult.selectionBackground": "#5c35b154",
-		"peekViewResult.selectionForeground": "#00e676",
+		"peekViewResult.selectionForeground": "#00FF9C",
 		"peekViewResult.lineForeground": "#7877b3",
 		"peekViewResult.matchHighlightBackground": "#6a3ecf6e",
 		"peekViewTitle.background": "#002212ec",
-		"peekViewTitleLabel.foreground": "#00e676",
+		"peekViewTitleLabel.foreground": "#00FF9C",
 		"peekViewTitleDescription.foreground": "#009550",
 
 		// Panel
 		"panel.background": "#131341",
-		"panel.border": "#00e676",
+		"panel.border": "#00FF9C",
 		"panelTitle.activeBorder": "#00FF9C",
-		"panelTitle.activeForeground": "#00e676",
+		"panelTitle.activeForeground": "#00FF9C",
 		"panelTitle.inactiveForeground": "#7877b3",
 
 		// QuickInput

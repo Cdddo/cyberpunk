@@ -48,7 +48,7 @@
 		
 		// Gitlens
 		"gitlens.gutterBackgroundColor": "#182333",
-		"gitlens.gutterForegroundColor": "#00e676",
+		"gitlens.gutterForegroundColor": "#00ffc8",
 		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
 		"gitlens.lineHighlightBackgroundColor": "#ff174426",
 		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
@@ -210,17 +210,17 @@
 		"progressBar.background": "#ff4081",
 
 		// PeekView
-		"peekView.border": "#00e676",
+		"peekView.border": "#00ffc8",
 		"peekViewEditor.matchHighlightBackground": "#5e35b1",
 		"peekViewEditor.background": "#100d23",
 		"peekViewResult.background": "#100d23",
-		"peekViewResult.fileForeground": "#00e676",
+		"peekViewResult.fileForeground": "#00ffc8",
 		"peekViewResult.selectionBackground": "#5c35b154",
-		"peekViewResult.selectionForeground": "#00e676",
+		"peekViewResult.selectionForeground": "#00ffc8",
 		"peekViewResult.lineForeground": "#7877b3",
 		"peekViewResult.matchHighlightBackground": "#6a3ecf6e",
 		"peekViewTitle.background": "#002212ec",
-		"peekViewTitleLabel.foreground": "#00e676",
+		"peekViewTitleLabel.foreground": "#00ffc8",
 		"peekViewTitleDescription.foreground": "#009550",
 		
 		// Panel

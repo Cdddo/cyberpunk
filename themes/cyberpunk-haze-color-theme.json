@@ -19,7 +19,7 @@
 
 		// DebugToolBar
 		"debugToolBar.background": "#002212ec",
-		"debugToolBar.border": "#00ff6a",
+		"debugToolBar.border": "#00ffc8",
 
 		// Selection
 		// "selection.background":
@@ -48,14 +48,14 @@
 
 		// GitLens
 		"gitlens.gutterBackgroundColor": "#182333",
-		"gitlens.gutterForegroundColor": "#00e676",
+		"gitlens.gutterForegroundColor": "#00ffc8",
 		"gitlens.gutterUncommittedForegroundColor": "#ffff00",
 		"gitlens.lineHighlightBackgroundColor": "#ff174426",
 		"gitlens.lineHighlightOverviewRulerColor": "#ffff00",
 		"gitlens.trailingLineForegroundColor": "#00ffc86c",
 
 		// GitDecoration
-		"gitDecoration.untrackedResourceForeground": "#00ff6a",
+		"gitDecoration.untrackedResourceForeground": "#00ffc8",
 		"gitDecoration.deletedResourceForeground": "#ff004c",
 		"gitDecoration.modifiedResourceForeground": "#00c3ff",
 		"gitDecoration.conflictingResourceForeground": "#ffff00",
@@ -152,7 +152,7 @@
 
 		// Input
 		"input.background": "#261D45",
-		"input.foreground": "#00ff6a",
+		"input.foreground": "#00ffc8",
 		"input.border": "#00FF9C",
 		"input.placeholderForeground": "#009550",
 		// "inputOption.activeBorder":
@@ -210,17 +210,17 @@
 		"progressBar.background": "#ff4081",
 
 		// PeekView
-		"peekView.border": "#00e676",
+		"peekView.border": "#00ffc8",
 		"peekViewEditor.matchHighlightBackground": "#5e35b1",
 		"peekViewEditor.background": "#100d23",
 		"peekViewResult.background": "#100d23",
-		"peekViewResult.fileForeground": "#00e676",
+		"peekViewResult.fileForeground": "#00ffc8",
 		"peekViewResult.selectionBackground": "#5c35b154",
-		"peekViewResult.selectionForeground": "#00e676",
+		"peekViewResult.selectionForeground": "#00ffc8",
 		"peekViewResult.lineForeground": "#7877b3",
 		"peekViewResult.matchHighlightBackground": "#6a3ecf6e",
 		"peekViewTitle.background": "#002212ec",
-		"peekViewTitleLabel.foreground": "#00e676",
+		"peekViewTitleLabel.foreground": "#00ffc8",
 		"peekViewTitleDescription.foreground": "#009550",
 
 		// Panel
