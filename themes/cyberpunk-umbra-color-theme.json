@@ -113,12 +113,12 @@
 		"editorIndentGuide.background1": "#1E1E44",
 	
         // EditorWidget
-		// "widget.shadow": "#0000006b",
-		"editorWidget.background": "#002212ec",
+		"widget.shadow": "#0000006b",
+		"editorWidget.background": "#100D23",
 		"editorWidget.border": "#00FF9C",
-		"editorHoverWidget.background": "#002212ec",
+		"editorHoverWidget.background": "#100D23",
 		"editorHoverWidget.border": "#00FF9C",
-		"editorSuggestWidget.background": "#002212ec",
+		"editorSuggestWidget.background": "#100D23",
 		// "editorSuggestWidget.foreground":
         "editorSuggestWidget.selectedBackground": "#002f6de8",
         "editorSuggestWidget.highlightForeground": "#00c3ff",
@@ -166,7 +166,7 @@
         "inputValidation.errorBorder": "#ff004c",
 
 		// Dropdown
-		"dropdown.background": "#002212ec",
+		"dropdown.background": "#100D23",
         "dropdown.foreground": "#00FF9C",
 		"dropdown.border": "#00FF9C",
 
@@ -196,13 +196,13 @@
 
 		// NotificationCenter
         "notificationCenter.border": "#00FF9C",
-		"notificationCenterHeader.background": "#002212ec",
-		"notificationCenterHeader.foreground": "#00FF9C",
+		"notificationCenterHeader.background": "#100d23",
+		// "notificationCenterHeader.foreground": "#00FF9C",
 
 		// Notifications
-		"notifications.background": "#002212e7",
+		"notifications.background": "#100d23",
 		"notifications.foreground": "#00FF9C",
-		"notifications.border": "#3d5afe",
+		"notifications.border": "#00ff9d6e",
 		"notificationLink.foreground": "#3d5afe",
 		"notificationToast.border": "#00FF9C",
 

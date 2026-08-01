@@ -18,7 +18,7 @@
 		"terminal.foreground": "#00a2ff",
 
 		// DebugToolBar
-		"debugToolBar.background": "#002212ec",
+		"debugToolBar.background": "#101116",
 		"debugToolBar.border": "#00ffc8",
 		
 		// Selection
@@ -166,7 +166,7 @@
 		"inputValidation.errorBorder": "#ff004c",
 		
 		// Dropdown
-		"dropdown.background": "#002212ec",
+		"dropdown.background": "#101116",
 		"dropdown.border": "#00FF9C",
 		"dropdown.foreground": "#00FF9C",
 
@@ -196,7 +196,7 @@
 		
 		// NotificationCenter
 		"notificationCenter.border": "#00FF9C",
-		"notificationCenterHeader.background": "#002212ec",
+		"notificationCenterHeader.background": "#101116",
 		"notificationCenterHeader.foreground": "#00FF9C",
 		
 		// Notifications
@@ -219,7 +219,7 @@
 		"peekViewResult.selectionForeground": "#00ffc8",
 		"peekViewResult.lineForeground": "#7877b3",
 		"peekViewResult.matchHighlightBackground": "#6a3ecf6e",
-		"peekViewTitle.background": "#002212ec",
+		"peekViewTitle.background": "#101116",
 		"peekViewTitleLabel.foreground": "#00ffc8",
 		"peekViewTitleDescription.foreground": "#009550",
 		
@@ -231,7 +231,7 @@
 		"panelTitle.inactiveForeground": "#eb4d81de",
 		
 		// QuickInput
-		// "quickInput.background": "#002212ec",
+		// "quickInput.background": "#101116",
 		"quickInput.foreground": "#be4e74",
 		// "quickInputList.focusBackground": "#100D23",
 		// "quickInputList.focusForeground": "#00FF9C",
