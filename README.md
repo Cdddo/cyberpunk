@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/vscode-marketplace/d/cdddo.cyberpunk.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/vscode-marketplace/r/cdddo.cyberpunk.svg?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/vscode-marketplace/v/cdddo.cyberpunk.svg?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/cdddo/cyberpunk.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Cdddo/cyberpunk-themes.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
 </p>
 
 <div align="center"><h1>HAZE protocol</h1></div>
