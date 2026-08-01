@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/vscode-marketplace/d/cdddo.cyberpunk.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/vscode-marketplace/r/cdddo.cyberpunk.svg?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/vscode-marketplace/v/cdddo.cyberpunk.svg?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge"/>
-<img src="https://img.shields.io/github/contributors/cdddo/cyberpunk.svg?colorA=4B1E97&label=Contributors&colorB=280E54&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/cdddo/cyberpunk.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
 </p>
 
@@ -27,9 +26,8 @@
 - Use Slack?, keep everything in tune with cyberpunk. Copy and paste these colors:
 `#372963,#100D23,#100d23,#00FF9C,#100D23,#c592ff,#00FF9C,#ff4081`
 
-- Recommended font [FiraCode](https://github.com/tonsky/FiraCode)
-- Recommended `"editor.fontLigatures": true,`
-- Recommended `"editor.lineHeight": 30,`
-- Recommended [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets). This plugin complements the cyberpunk theme
+- Recommended font [Ioskeley Mono](https://github.com/ahatem/IoskeleyMono)
+- `"editor.fontLigatures":  "'calt', 'liga'",`
+- `"editor.bracketPairColorization.enabled": true,`
 
-Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk#review-details)
+Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=cdddo.cyberpunk#review-details)
