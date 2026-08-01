@@ -415,7 +415,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#76c1ff"
 			}
 		},
@@ -795,7 +795,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike",
+				"fontStyle": "strikethrough",
 				"foreground": ""
 			}
 		},
