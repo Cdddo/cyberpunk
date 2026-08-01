@@ -30,7 +30,7 @@
 
 		// Badge
 		"badge.background": "#00ffc8",
-		"badge.foreground": "#000807",
+		"badge.foreground": "#000",
 
 		// Button
 		"button.background": "#00ff9da6",

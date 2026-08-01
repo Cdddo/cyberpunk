@@ -29,8 +29,8 @@
 		"textLink.foreground": "#3d5afe",
 
 		// Badge
-		"badge.background": "#00FF9C",
-		"badge.foreground": "#001107",
+		"badge.background": "#000",
+		"badge.foreground": "#00FF9C",
 
 		// Button
 		"button.background": "#00ff9da6",
