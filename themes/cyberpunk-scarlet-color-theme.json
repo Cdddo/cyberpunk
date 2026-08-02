@@ -25,8 +25,8 @@
 		"selection.background": "#6a3ecf6e",
 
 		// TextLink
-		"textLink.activeForeground": "#ff0055",
-		"textLink.foreground": "#00ffc8",
+		"textLink.activeForeground": "#00ffc8",
+		"textLink.foreground": "#ff0055",
 
 		// Badge
 		"badge.background": "#00ffc8",
