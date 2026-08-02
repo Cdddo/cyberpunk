@@ -114,16 +114,16 @@
 	
         // EditorWidget
 		"widget.shadow": "#0000006b",
-		"editorWidget.background": "#100D23",
+		"editorWidget.background": "#1f1d46",
 		"editorWidget.border": "#00FF9C",
 		"editorHoverWidget.background": "#100D23",
 		"editorHoverWidget.border": "#00FF9C",
 		"editorSuggestWidget.background": "#100D23",
-		// "editorSuggestWidget.foreground":
-        "editorSuggestWidget.selectedBackground": "#002f6de8",
-        "editorSuggestWidget.highlightForeground": "#00c3ff",
+		"editorSuggestWidget.foreground": "#ffffff",
+        "editorSuggestWidget.selectedBackground": "#5c35b154",
+        "editorSuggestWidget.highlightForeground": "##00FF9C",
 		"editorSuggestWidget.border": "#00FF9C",
-
+		
 		// InlayHint
 		"editorInlayHint.background": "#006eff2d",
 		"editorInlayHint.foreground": "#d57bff",
