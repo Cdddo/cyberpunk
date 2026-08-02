@@ -1,4 +1,32 @@
+<a name="1.3.2"></a>
+
+# Version 1.3.2 - (01/08/2026)
+
+### Changed
+- Reversed Scarlet text link colors
+- Improved editor widget colors, particularly suggest widget
+
+### Fixed
+- README.md links and badges now point to proper repo and marketplace urls
+
+<a name="1.3.1"></a>
+
+# Version 1.3.1 - (01/08/2026)
+
+### Changed
+- Haze panel colors
+- Removed off greens (consolidated palette)
+- Removed dark green backgrounds from widgets, debug toolbar, dropdowns, notifications, and peek views
+- Updated badges
+- Updated package name and links
+- Updated README.md links and badges, new recommended font Ioskeley Mono
+
+### Fixed
+
+- Fixed invalid token font config
+
 <a name="1.3.0"></a>
+
 # Version 1.3.0 - HAZE - (31/07/2026)
 
 ### Changed
@@ -8,14 +36,14 @@
 - Organized and coordinated color sections for all protocols
 - First pass of tweaks, including menu backgrounds, status bar, input backgrounds, sidebar and titlebar, editor warning, cursor, quick input, list hover and terminal
   
-  ### Added
+### Added
 - Added colors for inlay hints
 - Added border for modified tabs
 - Added border for focused elements
-- 
-  ### Fixed
-  - Fixed colors for menu focus to improve visibility
-  - Fixed selection background for SCARLET to make selections visible
+
+### Fixed
+- Fixed colors for menu focus to improve visibility
+- Fixed selection background for SCARLET to make selections visible
 
 <a name="1.2.0"></a>
 # Version 1.2.0 - Lucifer - (25/07/2018)
