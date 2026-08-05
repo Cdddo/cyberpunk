@@ -8,7 +8,17 @@
 <img src="https://flat.badgen.net/vs-marketplace/rating/Cdddo.Cyberpunk-CD3O/?label=Rating&labelColor=4B1E97&color=280E54&scale=1.2"/>
 <img src="https://flat.badgen.net/github/stars/Cdddo/cyberpunk-themes/?label=Stars&labelColor=4B1E97&color=280E54&scale=1.2"/>
 </p>
+<br>
 
+Get them from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Cdddo.Cyberpunk-CD3O) or search for Cyberpunk CD3O inside Visual Studio Code.
+
+- Recommended font [Ioskeley Mono](https://github.com/ahatem/IoskeleyMono)
+- `"editor.fontLigatures":  "'calt', 'liga'",`
+- `"editor.bracketPairColorization.enabled": true,`
+
+Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=Cdddo.Cyberpunk-CD3O#review-details) and star the repo. Create an issue for bugs or feature requests.
+
+<br>
 <div align="center"><h1>HAZE protocol</h1></div>
 
 ![Code Screenshot](/assets/preview-haze.png?raw=true "Code Screenshot")
@@ -25,9 +35,3 @@
 
 - Use Slack?, keep everything in tune with cyberpunk. Copy and paste these colors:
 `#372963,#100D23,#100d23,#00FF9C,#100D23,#c592ff,#00FF9C,#ff4081`
-
-- Recommended font [Ioskeley Mono](https://github.com/ahatem/IoskeleyMono)
-- `"editor.fontLigatures":  "'calt', 'liga'",`
-- `"editor.bracketPairColorization.enabled": true,`
-
-Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudio.com/items?itemName=Cdddo.Cyberpunk-CD3O#review-details)
