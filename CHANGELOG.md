@@ -1,3 +1,10 @@
+<a name="1.3.3"></a>
+
+# Version 1.3.3 - (04/08/2026)
+
+### Changed
+- Replaced readme badge providers with Badgen and improved readme
+
 <a name="1.3.2"></a>
 
 # Version 1.3.2 - (01/08/2026)
