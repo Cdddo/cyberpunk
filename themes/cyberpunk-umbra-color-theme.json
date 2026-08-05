@@ -251,9 +251,9 @@
 		"sideBar.foreground": "#8b96ff",
 		"sideBar.border": "#09040f",
         "sideBarTitle.foreground": "#bbbbbb",
-		// "sideBarSectionHeader.background":
+		"sideBarSectionHeader.background": "#5c35b154",
 		// "sideBarSectionHeader.foreground":
-		// "sideBarSectionHeader.border":
+		// "sideBarSectionHeader.border": "#8b96ff",
 
 		// TitleBar
 		"titleBar.activeBackground": "#100D23",
