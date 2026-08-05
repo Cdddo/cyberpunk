@@ -142,7 +142,7 @@
 		"tab.activeModifiedBorder": "#00FF9C",
         "tab.activeBorder": "#ff0055",
         "tab.inactiveBackground": "#101116",
-        "tab.inactiveForeground": "#eb4d81de",
+        "tab.inactiveForeground": "#cb0044de",
         "tab.hoverBackground": "#ff00593d",
         "tab.hoverBorder": "#ff0055",
 
@@ -232,11 +232,11 @@
 		"panel.border": "#ff0055",
 		"panelTitle.activeBorder": "#ff0055",
 		"panelTitle.activeForeground": "#ff0055",
-		"panelTitle.inactiveForeground": "#eb4d81de",
+		"panelTitle.inactiveForeground": "#cb0044de",
 		
 		// QuickInput
 		// "quickInput.background": "#101116",
-		"quickInput.foreground": "#be4e74",
+		"quickInput.foreground": "#cb0044",
 		// "quickInputList.focusBackground": "#100D23",
 		// "quickInputList.focusForeground": "#00FF9C",
 		// "quickInputList.focusIconForeground": "#00FF9C",
@@ -248,7 +248,7 @@
 		
 		// SideBar
 		"sideBar.background": "#0a0b0e",
-		"sideBar.foreground": "#be4e74",
+		"sideBar.foreground": "#cb0044",
 		"sideBar.border": "#101116",
         "sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background": "#240000",
