@@ -18,7 +18,7 @@
 		
 		// Text Colors
 		"textLink.activeForeground": "#00ffc8",
-		"textLink.foreground": "#ff0055",
+		"textLink.foreground": "#00a2ff",
 
 		// Merge
 		"merge.commonContentBackground": "#ff004c33",
@@ -96,7 +96,7 @@
 		"editorError.foreground": "#ff1865",
 		"editorWarning.foreground": "#E5B000",
         "editorWhitespace.foreground": "#2B3E5A",
-		"editorLink.activeForeground": "#3d81fe",
+		"editorLink.activeForeground": "#00a2ff",
 		
 		// EditorBracketMatch
 		"editorBracketMatch.background": "#ff005533",
@@ -206,8 +206,8 @@
 		// Notifications
 		"notifications.background": "#002212e7",
 		"notifications.foreground": "#00FF9C",
-		"notifications.border": "#3d5afe",
-		"notificationLink.foreground": "#3d5afe",
+		"notifications.border": "#00a2ff",
+		"notificationLink.foreground": "#00a2ff",
 		"notificationToast.border": "#00FF9C",
 		
 		// ProgressBar

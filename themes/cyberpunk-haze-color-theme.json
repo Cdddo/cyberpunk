@@ -17,8 +17,8 @@
 		// "sash.hoverBorder": 
 
 		// Text Colors
-		"textLink.activeForeground": "#3d5afe",
-		"textLink.foreground": "#0084ff",
+		"textLink.activeForeground": "#00FFC8",
+		"textLink.foreground": "#00c3ff",
 
 		// Merge
 		"merge.commonContentBackground": "#ff004c33",
@@ -96,7 +96,7 @@
 		"editorError.foreground": "#ff1865",
 		"editorWarning.foreground": "#E5B000",
 		"editorWhitespace.foreground": "#2B3E5A",
-		"editorLink.activeForeground": "#3d81fe",
+		"editorLink.activeForeground": "#00c3ff",
 
 		// EditorBracketMatch
 		"editorBracketMatch.background": "#ff005533",
@@ -208,7 +208,7 @@
 		"notifications.background": "#261D45",
 		"notifications.foreground": "#00FF9C",
 		"notifications.border": "#00ff9d6e",
-		"notificationLink.foreground": "#3d5afe",
+		"notificationLink.foreground": "#00c3ff",
 		"notificationToast.border": "#00FF9C",
 
 		// ProgressBar
