@@ -3,10 +3,10 @@
 <div align="center"><h1>Cyberpunk themes for Visual Studio Code</h1></div>
 
 <p align="center">
-<img src="https://vsmarketplacebadges.dev/downloads/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Download&colorB=280E54&style=for-the-badge"/>
-<img src="https://vsmarketplacebadges.dev/rating-short/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Rating&colorB=280E54&style=for-the-badge"/>
-<img src="https://vsmarketplacebadges.dev/version/Cdddo.Cyberpunk-CD3O.svg?colorA=4B1E97&label=Version&colorB=280E54&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Cdddo/cyberpunk-themes.svg?colorA=4B1E97&label=Stars&colorB=280E54&style=for-the-badge"/>
+<img src="https://flat.badgen.net/vs-marketplace/v/Cdddo.Cyberpunk-CD3O/?label=Version&labelColor=4B1E97&color=280E54&scale=1.2"/>
+<img src="https://flat.badgen.net/vs-marketplace/i/Cdddo.Cyberpunk-CD3O/?label=Installs&labelColor=4B1E97&color=280E54&scale=1.2"/>
+<img src="https://flat.badgen.net/vs-marketplace/rating/Cdddo.Cyberpunk-CD3O/?label=Rating&labelColor=4B1E97&color=280E54&scale=1.2"/>
+<img src="https://flat.badgen.net/github/stars/Cdddo/cyberpunk-themes/?label=Stars&labelColor=4B1E97&color=280E54&scale=1.2"/>
 </p>
 
 <div align="center"><h1>HAZE protocol</h1></div>
