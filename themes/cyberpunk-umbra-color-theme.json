@@ -2,8 +2,23 @@
 	"name": "cyberpunk umbra",
 	"type": "dark",
 	"colors": {
-		"errorForeground": "#ff3270",
+		// Color reference: https://code.visualstudio.com/api/references/theme-color#chat-colors
+		
+		// Base Colors
+		"focusBorder": "#8e97ff",
 		"foreground": "#ffffff",
+		// "disabledForeground": 
+		// "widget.border": 
+		"widget.shadow": "#0000006b",
+		// "selection.background":
+		// "descriptionForeground": 
+		"errorForeground": "#ff3270",
+		// "icon.foreground": "#00FF9C",
+		// "sash.hoverBorder": 
+
+		// Text Colors
+		"textLink.activeForeground": "#3d5afe",
+		"textLink.foreground": "#3d5afe",
 
 		// Merge
 		"merge.commonContentBackground": "#ff004c33",
@@ -20,13 +35,6 @@
 		// DebugToolBar
         "debugToolBar.background": "#002212ec",
         "debugToolBar.border": "#00FF9C",
-
-		// Selection
-		// "selection.background":
-		
-		// TextLink
-		"textLink.activeForeground": "#3d5afe",
-		"textLink.foreground": "#3d5afe",
 
 		// Badge
 		"badge.background": "#000",
@@ -113,7 +121,6 @@
 		"editorIndentGuide.background1": "#1E1E44",
 	
         // EditorWidget
-		"widget.shadow": "#0000006b",
 		"editorWidget.background": "#1f1d46",
 		"editorWidget.border": "#00FF9C",
 		"editorHoverWidget.background": "#100D23",
@@ -128,9 +135,6 @@
 		"editorInlayHint.background": "#006eff2d",
 		"editorInlayHint.foreground": "#d57bff",
 
-		// Focus
-		"focusBorder": "#8e97ff",
-		
 		// Tab
 		"tab.border": "#372963",
 		"tab.activeBackground": "#100d23",
