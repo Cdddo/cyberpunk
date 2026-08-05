@@ -104,9 +104,9 @@
 
 		// EditorGutter
 		"editorGutter.background": "#060608",
-		// "editorGutter.addedBackground":
-		// "editorGutter.deletedBackground":
-		// "editorGutter.modifiedBackground":
+		"editorGutter.addedBackground": "#00ffc8",
+		"editorGutter.deletedBackground": "#ff004c",
+		"editorGutter.modifiedBackground": "#00c3ff", 
 		"editorLineNumber.foreground": "#ff00557e",
 		"editorLineNumber.activeForeground": "#00ffc8",
 		
