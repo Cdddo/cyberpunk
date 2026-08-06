@@ -740,7 +740,7 @@
 				"text.html.markdown meta.dummy.line-break"
 			],
 			"settings": {
-				"foreground": ""
+				// "foreground": ""
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			],
 			"settings": {
 				"fontStyle": "strikethrough",
-				"foreground": ""
+				// "foreground": ""
 			}
 		},
 		{
@@ -826,7 +826,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": ""
+				// "foreground": ""
 			}
 		},
 		{
