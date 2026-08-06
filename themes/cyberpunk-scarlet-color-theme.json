@@ -188,13 +188,13 @@
 		"statusBarItem.hoverForeground": "#00FF9C",
 
 		// List
-		"list.activeSelectionBackground": "#ff005528",
-		"list.activeSelectionForeground": "#ff0055",
-		"list.focusBackground": "#182333",
+		"list.activeSelectionBackground": "#000",
+		"list.activeSelectionForeground": "#00ffc8",
+		"list.focusBackground": "#000",
 		"list.hoverBackground": "#000",
-		"list.hoverForeground": "#00FF9C",
-		"list.highlightForeground": "#00FF9C",
-		"list.inactiveSelectionBackground": "#0c0000",
+		"list.hoverForeground": "#00ffc8",
+		"list.highlightForeground": "#00ffc8",
+		"list.inactiveSelectionBackground": "#240000",
 		"list.inactiveSelectionForeground": "#00ffc8",
 		// "list.errorForeground":
 		
