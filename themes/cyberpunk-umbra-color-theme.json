@@ -96,7 +96,7 @@
 		"editorCursor.foreground": "#00FF9C",
 		"editorRuler.foreground": "#182333",
 		"editorError.foreground": "#ff1865",
-		"editorWarning.foreground": "#E5B000",
+		"editorWarning.foreground": "#ff9100",
 		"editorWhitespace.foreground": "#2B3E5A",
 		"editorLink.activeForeground": "#00c3ff",
 
@@ -130,7 +130,7 @@
 		"editorSuggestWidget.background": "#100D23",
 		"editorSuggestWidget.foreground": "#ffffff",
         "editorSuggestWidget.selectedBackground": "#5c35b154",
-        "editorSuggestWidget.highlightForeground": "##00FF9C",
+        "editorSuggestWidget.highlightForeground": "#00FF9C",
 		"editorSuggestWidget.border": "#00FF9C",
 		
 		// InlayHint
@@ -188,6 +188,7 @@
 		// "statusBar.noFolderBorder":
 		"statusBarItem.hoverBackground": "#00FF9C",
 		"statusBarItem.hoverForeground": "#000",
+		"statusBarItem.warningBackground": "#ff9100",
 
 		// List
 		"list.activeSelectionBackground": "#5c35b154",

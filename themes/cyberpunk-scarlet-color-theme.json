@@ -96,7 +96,7 @@
 		"editorCursor.foreground": "#00ffc8",
 		"editorRuler.foreground": "#182333",
 		"editorError.foreground": "#ff1865",
-		"editorWarning.foreground": "#E5B000",
+		"editorWarning.foreground": "#ff9100",
         "editorWhitespace.foreground": "#2B3E5A",
 		"editorLink.activeForeground": "#00a2ff",
 		
@@ -188,6 +188,7 @@
 		"statusBar.noFolderBorder": "#ff0055",
 		"statusBarItem.hoverBackground": "#000",
 		"statusBarItem.hoverForeground": "#00FF9C",
+		"statusBarItem.warningBackground": "#ff9100",
 
 		// List
 		"list.activeSelectionBackground": "#000",
