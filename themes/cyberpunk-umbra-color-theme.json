@@ -188,9 +188,9 @@
 		"statusBarItem.hoverForeground": "#000",
 
 		// List
-		"list.activeSelectionBackground": "#002212ec",
+		"list.activeSelectionBackground": "#5c35b154",
 		"list.activeSelectionForeground": "#00FF9C",
-		"list.focusBackground": "#002212ec",
+		"list.focusBackground": "#5c35b154",
 		"list.hoverBackground": "#5c35b154",
 		"list.hoverForeground": "#00FF9C",
 		"list.highlightForeground": "#00FF9C",
