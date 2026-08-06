@@ -33,7 +33,7 @@
 		"terminal.foreground": "#00FF9C",
 
 		// DebugToolBar
-        "debugToolBar.background": "#002212ec",
+        "debugToolBar.background": "#100D23",
         "debugToolBar.border": "#00FF9C",
 
 		// Badge
