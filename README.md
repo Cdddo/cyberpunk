@@ -21,15 +21,15 @@ Your feedback is welcome, please [Rate & Review](https://marketplace.visualstudi
 <br>
 <div align="center"><h1>HAZE protocol</h1></div>
 
-![Code Screenshot](/assets/preview-haze.png?raw=true "Code Screenshot")
+![HAZE Theme Preview](/assets/preview-haze.png?raw=true "HAZE Theme Preview")
 
 <div align="center"><h1>UMBRA protocol</h1></div>
 
-![Code Screenshot](/assets/preview-umbra.png?raw=true "Code Screenshot")
+![UMBRA Theme Preview](/assets/preview-umbra.png?raw=true "UMBRA Theme Preview")
 
 <div align="center"><h1>SCARLET protocol</h1></div>
 
-![Code Screenshot](/assets/preview-scarlet.png?raw=true "Code Screenshot")
+![SCARLET Theme Preview](/assets/preview-scarlet.png?raw=true "SCARLET Theme Preview")
 
 <h2>Bonus</h2>
 
