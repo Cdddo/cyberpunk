@@ -1,3 +1,18 @@
+<a name="1.3.4"></a>
+
+# Version 1.3.4 - (05/08/2026)
+
+### Changed
+
+- [Scarlet] Improved foreground colors (sidebar and quick input, panel inactive and tab inactive)
+- [Umbra][Haze] Improved sidebar header color
+- [All] Changed icon color from white to green/blue
+- [All] Changed line modified/added/deleted colors
+- [All] Changed text link colors
+- Updated extension icon with solid background
+- Updated theme preview images
+- Updated launch config and gitignore
+
 <a name="1.3.3"></a>
 
 # Version 1.3.3 - (04/08/2026)
