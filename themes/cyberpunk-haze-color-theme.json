@@ -19,6 +19,8 @@
 		// Text Colors
 		"textLink.activeForeground": "#00FFC8",
 		"textLink.foreground": "#00c3ff",
+		"textBlockQuote.background": "#261D45",
+		"textBlockQuote.border": "#b08bff",
 
 		// Merge
 		"merge.commonContentBackground": "#ff004c33",
@@ -261,7 +263,13 @@
 		"titleBar.activeForeground": "#00FF9C",
 		"titleBar.inactiveBackground": "#1E1D45",
 		"titleBar.inactiveForeground": "#00FF9C",
-		"titleBar.border": "#100D23"
+		"titleBar.border": "#100D23",
+
+		// Chat
+		"chat.requestBubbleBackground": "#261D45",
+		"chat.requestBubbleHoverBackground": "#100D23",
+		"chat.slashCommandBackground": "#100D23",
+		"chat.slashCommandForeground": "#fff",
 	},
 	"tokenColors": [
 		{

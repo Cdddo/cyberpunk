@@ -19,6 +19,8 @@
 		// Text Colors
 		"textLink.activeForeground": "#00ffc8",
 		"textLink.foreground": "#00a2ff",
+		"textBlockQuote.background": "#240000",
+		"textBlockQuote.border": "#ff0055",
 
 		// Merge
 		"merge.commonContentBackground": "#ff004c33",
@@ -261,6 +263,12 @@
 		// "titleBar.inactiveBackground":
 		// "titleBar.inactiveForeground":
 		// "titleBar.border":
+
+		// Chat
+		"chat.requestBubbleBackground": "#240000",
+		"chat.requestBubbleHoverBackground": "#240000",
+		"chat.slashCommandBackground": "#000",
+		"chat.slashCommandForeground": "#ddd",
 	},
 	"tokenColors": [
 		{
