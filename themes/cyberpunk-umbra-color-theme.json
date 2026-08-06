@@ -274,7 +274,6 @@
 		{
 			"settings": {
 				"foreground": "#eeffffff",
-				"background": "#263238ff"
 			}
 		},
 		{
@@ -817,7 +816,6 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -912,7 +910,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},
