@@ -199,16 +199,16 @@
 		// "list.errorForeground":
 		
 		// NotificationCenter
-		"notificationCenter.border": "#00FF9C",
+		"notificationCenter.border": "#ff0055",
 		"notificationCenterHeader.background": "#101116",
-		"notificationCenterHeader.foreground": "#00FF9C",
+		"notificationCenterHeader.foreground": "#ffffff",
 		
 		// Notifications
-		"notifications.background": "#002212e7",
-		"notifications.foreground": "#00FF9C",
-		"notifications.border": "#00a2ff",
+		"notifications.background": "#101116",
+		"notifications.foreground": "#00FFC8",
+		"notifications.border": "#ff00556e",
 		"notificationLink.foreground": "#00a2ff",
-		"notificationToast.border": "#00FF9C",
+		"notificationToast.border": "#ff0055",
 		
 		// ProgressBar
 		"progressBar.background": "#ff4081",
