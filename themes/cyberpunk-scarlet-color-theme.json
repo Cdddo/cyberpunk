@@ -5,7 +5,7 @@
 		// Color reference: https://code.visualstudio.com/api/references/theme-color#chat-colors
 		
 		// Base Colors
-		"focusBorder": "#ff0055",
+		"focusBorder": "#00ffc8",
 		"foreground": "#ffffff",
 		// "disabledForeground": 
 		// "widget.border": 
