@@ -15,6 +15,7 @@ and specifies the base theme of the theme.
 * You can relaunch the extension from the debug toolbar after making changes to the files listed above.
 * You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
 * When editing workbench colors, it's easiest to test the colors in the settings under `workbench.colorCustomizations` and `workbench.tokenColorCustomizations`. When done, run the `Generate Color Theme From Current Settings` command to generate an updated content for the color theme definition file.
+* The color values reference is available [here](https://code.visualstudio.com/api/references/theme-color).
 
 ## Adopt your theme to Visual Studio Code
 * The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
