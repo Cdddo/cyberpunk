@@ -1,3 +1,24 @@
+<a name="1.3.5"></a>
+
+# Version 1.3.5 - (06/08/2026)
+
+### Added
+- [All] First round of colors for chat UI (request bubble, slash commands, block quotes)
+
+### Changed
+- [Scarlet] Improved notification and list colors
+- [Scarlet] Focus border changed to green
+- [Umbra] Darker panel background (matches editor background)
+- [Haze][Umbra] Improved debug toolbar background
+- [Haze][Umbra] Improved list selection and focus backgrounds
+- [All] Change warning color to bright orange
+
+### Fixed
+- [Scarlet] Fixed misconfigured icon color
+- [All] Removed unsupported background token colors
+- [All] Comment out blank foreground token scopes
+- [All] Remove unsupported editor group background
+
 <a name="1.3.4"></a>
 
 # Version 1.3.4 - (05/08/2026)
