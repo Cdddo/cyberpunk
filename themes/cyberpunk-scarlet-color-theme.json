@@ -73,7 +73,7 @@
 		"gitDecoration.submoduleResourceForeground": "#ffff00",
 		
 		// ActivityBar
-		"activityBar.background": "#101116",
+		"activityBar.background": "#000",
 		"activityBar.foreground": "#ff0055",
 		"activityBar.border": "#101116",
 		"activityBarBadge.background": "#00ffc8",
@@ -123,7 +123,7 @@
 		"editorIndentGuide.background1": "#ff00552a",
 
 		// EditorWidget
-        "editorWidget.background": "#1d000ae5",
+        "editorWidget.background": "#000",
 		"editorWidget.border": "#ff0055",
 		"editorHoverWidget.background": "#140007f8",
 		"editorHoverWidget.border": "#ff0055",
@@ -177,7 +177,7 @@
 		"dropdown.foreground": "#00FF9C",
 
 		// StatusBar
-		"statusBar.background": "#1d000ae5",
+		"statusBar.background": "#000",
 		"statusBar.foreground": "#ff0055",
 		"statusBar.border": "#ff0055",
 		"statusBar.debuggingBackground": "#9900ff33",
@@ -259,7 +259,7 @@
 		"sideBarSectionHeader.border": "#ff0055",
         
 		// TitleBar
-		"titleBar.activeBackground": "#140009",
+		"titleBar.activeBackground": "#000",
 		"titleBar.activeForeground": "#ff0055",
 		// "titleBar.inactiveBackground":
 		// "titleBar.inactiveForeground":
