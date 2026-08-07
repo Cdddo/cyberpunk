@@ -74,10 +74,10 @@
 
 		// ActivityBar
 		"activityBar.background": "#100d23",
-		"activityBar.foreground": "#00ff9d",
+		"activityBar.foreground": "#00FF9C",
 		"activityBar.border": "#09040f",
 		"activityBarBadge.background": "#00FF9C",
-		"activityBarBadge.foreground": "#001107",
+		"activityBarBadge.foreground": "#000",
 
 		// Editor
 		"editor.background": "#100d23",

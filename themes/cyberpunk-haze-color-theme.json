@@ -77,7 +77,7 @@
 		"activityBar.foreground": "#00ffc8",
 		"activityBar.border": "#1D1833",
 		"activityBarBadge.background": "#00ffc8",
-		"activityBarBadge.foreground": "#001107",
+		"activityBarBadge.foreground": "#000",
 
 		// Editor
 		"editor.background": "#261D45",
