@@ -145,7 +145,7 @@
 		// "tab.activeBorder":
 		"tab.inactiveBackground": "#1e1d45",
 		"tab.inactiveForeground": "#7877b3",
-		// "tab.hoverBackground": "#3f2c70",
+		"tab.hoverBackground": "#5c35b154",
 		// "tab.hoverBorder": "#721bf2",
 		
 		// Menu

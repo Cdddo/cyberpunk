@@ -142,11 +142,11 @@
 		"tab.activeBackground": "#101116",
         "tab.activeForeground": "#ff0055",
 		"tab.activeModifiedBorder": "#00FF9C",
-        "tab.activeBorder": "#ff0055",
+        // "tab.activeBorder": "#ff0055",
         "tab.inactiveBackground": "#101116",
         "tab.inactiveForeground": "#cb0044de",
         "tab.hoverBackground": "#ff00593d",
-        "tab.hoverBorder": "#ff0055",
+        // "tab.hoverBorder": "#ff0055",
 
 		// Menu
 		"menu.background": "#101116",

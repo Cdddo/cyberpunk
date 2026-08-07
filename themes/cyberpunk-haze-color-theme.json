@@ -146,7 +146,7 @@
 		"tab.inactiveBackground": "#372963",
 		"tab.inactiveForeground": "#7877b3",
 		"tab.hoverBackground": "#3f2c70",
-		"tab.hoverBorder": "#721bf2",
+		// "tab.hoverBorder": "#721bf2",
 
 		// Menu
 		"menu.background": "#261D45",
